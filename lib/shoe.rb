@@ -7,7 +7,7 @@ class Shoe
     @brand 
   end
   
-  def color(color)
+  def initialize(color)
     @color=color
   end
   
